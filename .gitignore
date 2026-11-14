@@ -1,0 +1,9 @@
+# data, model weights and cached embeddings
+*.h5ad
+*.h5
+*.tar.gz
+scGPT_spatial_v1/
+*_analysis/
+# notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
